@@ -1,7 +1,2 @@
 a=0
-m=10
-
-v=9
-
-m=0
-p=9
+print("xin chào tui là người việt nam")
