@@ -1,3 +1,2 @@
-
-print("xin chào tui là người việt nam")
+a=0
 
